@@ -12,7 +12,6 @@ const channels = [
     ["Sinema Zetu", "https://bosstvmax.uk/player/e0abfb81-b109-4600-8b4e-178d3bd14a4b"],
     ["Azam Sports 1 HD", "https://bosstvmax.uk/player/78481dac-331e-4b72-b983-a3107a1b636d"],
     ["Azam Sports 2 HD", "https://bosstvmax.uk/player/73c05c2d-ec03-4cfa-b369-2524928f5773"],
-    ["Azam Sports 3 HD", "https://bosstvmax.uk/player/6eeeae28-0fa3-4769-a061-33379c5c4ca5"],
     ["Azam Sports 4 HD", "https://bosstvmax.uk/player/dc002cb7-a900-4445-9ad3-6f4064f319e3"],
 ];
 
